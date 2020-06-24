@@ -1,2 +1,2 @@
-# trexMaster
-Final Set of Trex Files
+# trex
+Offline Game where trex jumps and runs over the obstacles.
